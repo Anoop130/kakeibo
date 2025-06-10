@@ -1,6 +1,8 @@
-# kakeibo
+Kakeibo
 
 Rough outline
+![image](https://github.com/user-attachments/assets/683a9d81-0e4b-4451-81fd-44bace9dd243)
+
 kakeibo-app/
 │
 ├── client/                 # React + TypeScript (frontend)
